@@ -66,7 +66,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [OP.GG](https://op.gg)
 
 ## Link DockerHub
-https://hub.docker.com/repository/docker/leandrocastro/laravel-optmized
+[laravel-optmized] (https://hub.docker.com/repository/docker/leandrocastro/laravel-optmized).
 
 ## Contributing
 
