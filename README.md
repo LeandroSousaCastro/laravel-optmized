@@ -1,4 +1,5 @@
-## Link do repositório
+## Link DockerHub
+[laravel-optmized] (https://hub.docker.com/repository/docker/leandrocastro/laravel-optmized).
 
 
 
@@ -64,9 +65,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Hyper Host](https://hyper.host)
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
-
-## Link DockerHub
-[laravel-optmized] (https://hub.docker.com/repository/docker/leandrocastro/laravel-optmized).
 
 ## Contributing
 
